@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="slick">
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/slick.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/lwjgl.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jorbis-0.0.15.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jogg-0.0.7.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jinput.jar" />
+  </library>
+  <library name="jars">
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/slick.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/lwjgl.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jorbis-0.0.15.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jogg-0.0.7.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jinput.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/lwjgl.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/slick.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jinput.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jogg-0.0.7.jar" />
+    <archive path="C:/Users/Kali/Desktop/Java/Libraries/jars/jorbis-0.0.15.jar" />
+  </library>
+</eclipse-userlibraries>
+
