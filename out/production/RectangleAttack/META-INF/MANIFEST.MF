@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: com.DotHead.main.Game
+Main-Class: com.RectangleAttack.main.Game
 
