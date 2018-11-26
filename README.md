@@ -1,2 +1,4 @@
 # RectangleAttack
-![RectangleAttack](https://i.imgur.com/t9G4cmF.jpg)
+![RectangleAttack](https://raw.githubusercontent.com/MantasMikal/RectangleAttack/master/Compiled%20Binary/Preview.gif)
+
+[Compiled Binary Download](https://github.com/MantasMikal/RectangleAttack/tree/master/Compiled%20Binary)
